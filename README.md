@@ -50,6 +50,6 @@ Please find a screenshot of the expected results below:
 
 ![French Onion](./french-onion-final.jpg)
 
-## Additional Resources
+## Extra Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
