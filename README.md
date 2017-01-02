@@ -30,15 +30,15 @@ There's a bit of starter code, so you can jump right into it.
 
 #### Submission
 
-- Upon completion, run the following commands
+Upon completion, run the following commands
+```
+$ git add .
+$ git commit -m "done"
+$ git push origin master
+```
+Navigate to your repo and create a Pull Request -from your master branch to the original repository master branch.
 
-  ```
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+In the Pull request name, add your name and last names separated by a dash "-"
 
 #### Starter code
 
