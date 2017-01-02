@@ -15,9 +15,7 @@ Cloning something that already exists is the best way to get better at front end
 
 There's a bit of starter code, so you can jump right into it.
 
-## Exercise
-
-#### Requirements
+## Requirements
 
 - [Fork this repo](https://guides.github.com/activities/forking/)
 - Clone this repo into your `~/code/labs`
@@ -28,7 +26,7 @@ There's a bit of starter code, so you can jump right into it.
   - The recipe servings / nutrients section
   - The prep section
 
-#### Submission
+## Submission
 
 Upon completion, run the following commands
 ```
@@ -40,11 +38,11 @@ Navigate to your repo and create a Pull Request -from your master branch to the 
 
 In the Pull request name, add your name and last names separated by a dash "-"
 
-#### Starter code
+## Starter code
 
 The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css`.
 
-#### Deliverable
+## Deliverable
 
 Please find a screenshot of the expected results below:
 
