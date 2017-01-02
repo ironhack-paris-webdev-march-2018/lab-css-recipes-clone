@@ -1,6 +1,6 @@
-![](https://i.imgur.com/1QgrNNw.png)
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# HTML & CSS Basics Lab
+# HTML & CSS | Basics Lab
 
 ## Introduction
 
@@ -48,9 +48,9 @@ The starter-code contains all the files, images, and text content needed to crea
 
 Please find a screenshot of the expected results below:
 
-![Apple Pie](./apple-pie-final.jpg)
+![Apple Pie](http://imgur.com/a/pS03v)
 
-![French Onion](./french-onion-final.jpg)
+![French Onion](http://imgur.com/a/b9Idg)
 
 ## Extra Resources
 
