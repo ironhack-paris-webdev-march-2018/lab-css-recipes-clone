@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# HTML & CSS | Basics Lab
+# HTML & CSS | Recipes Clone
 
 ## Introduction
 
@@ -48,10 +48,10 @@ The starter-code contains all the files, images, and text content needed to crea
 
 Please find a screenshot of the expected results below:
 
-![Apple Pie](http://imgur.com/a/pS03v)
-
-![French Onion](http://imgur.com/a/b9Idg)
+![Apple Pie](https://i.imgur.com/lGGM68Q.jpg)
+![French Onion](https://i.imgur.com/uepu2DO.jpg)
 
 ## Extra Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
